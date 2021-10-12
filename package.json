@@ -19,6 +19,7 @@
     "@babel/preset-react": "^7.14.5",
     "@storybook/addon-a11y": "^6.3.10",
     "@storybook/addon-actions": "^6.3.10",
+    "@storybook/addon-essentials": "^6.3.10",
     "@storybook/react": "^6.3.10",
     "babel-loader": "^8.2.2",
     "babel-plugin-react-docgen": "^4.2.1",
@@ -32,6 +33,7 @@
     "webpack-dev-server": "^4.3.1"
   },
   "dependencies": {
+    "@storybook/preset-create-react-app": "^3.2.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   }
